@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act in favours of the afflicted inhabitants of the town of Kelso, through the late fire, for a voluntary contribution. Edinburgh, the seventeenth day of April, 1684.</title>
+            <author>Scotland. Privy Council</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05327</idno>
+            <idno type="STC">Wing S1436</idno>
+            <idno type="STC">ESTC R183008</idno>
+            <idno type="EEBO-CITATION">52612250</idno>
+            <idno type="OCLC">ocm 52612250</idno>
+            <idno type="VID">179554</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05327)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179554)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2793:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act in favours of the afflicted inhabitants of the town of Kelso, through the late fire, for a voluntary contribution. Edinburgh, the seventeenth day of April, 1684.</title>
+                  <author>Scotland. Privy Council</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson, Printer to his most sacred Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Royal arms at head of text; initial letter.</note>
+                  <note>Signed at end: Will. Paterson, Cls. Sti. Concilii.</note>
+                  <note>Imperfect: stained with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Public welfare --  Law and legislation --  Scotland --  Early works to 1800.</term>
+               <term>Kelso (Scotland) --  Fire, 1684 --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:179554:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 14 -->
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q>
+                     <gap reason="illegible" extent="6 words">
+                        <desc>〈◊◊◊◊◊◊〉</desc>
+                     </gap>
+                  </q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>
+               <hi>ACT</hi> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> favours of the afflicted Inbabitants of the Town of KELSO, through the <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e Fire for a volu<gap reason="illegible" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>r Contribution.</head>
+            <opener>
+               <dateline>Edinburgh, <date>the ſeventeenth day of <hi>April,</hi> 1684.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>ORASMUCH as there being a Repreſentation made to the Lo<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of His Ma<g ref="char:EOLhyphen"/>jeſties Privy Council, by the Afflicted Inhabitants within the Town of <hi>Kelſo,</hi> through the late Fire, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing; That whereas, upon <hi>Tueſday</hi> the eighth of this Inſtant, betwixt three and four a Clock in the afternoon, there happened a moſt calamitous Fire, within the ſaid Town of <hi>Kelſo,</hi> which began firſt in a Malt-h<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> whereby ſome Neighbouring Stacks of Corn were kindled, and theſe, by the vio<g ref="char:EOLhyphen"/>lent tempeſtuous Wind, blowing over the Town, did, in a ſudden, put the whole in ſo univerſal a Conflagration, that theſe who were helping their Neighbours, did not know when their own Hou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es were Burning, in ſo much, that before nine a Clock of the Night, not only all the Houſes, but the moſt p<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t of all the Goods therein and ſeveral Merchant Shops of conſiderable value, and above four thouſand Bolls of Victual, lying in Girnels, and all the Corn-<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cks in the Town <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rly in Aſhes; during which time, the fury of the Flame, and rage of the <hi>Smoke,</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere ſo great in all <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Town, that with great difficulty, Sick, and Infirm Perſons, and Infant-children <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> be carried away <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to the open Fields: By which ſad Viſitation, three hundred and ſix Families, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to a <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the Maſters Names, given in to the Lords of Council, have had their Dwelling-houſes within the ſaid Town, <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> down; and of this, not twenty will ever be able to Rebuild again, upon their own Means and Ex<g ref="char:EOLhyphen"/>pences; and the loſs of Merchants is ſo great, that it cannot be well known, the particular loſs of ſome of them, being valued above twenty thouſand Pounds <hi>Scots,</hi> and of others, above a thouſand Pound <hi>Sterling;</hi> and the more Indigent ſort of People, have loſt the whole Suſtenance of their Liveliehood, through the Burning, both of their Houſes and Corns, ſo that with much difficulty, they have been hitherto Supplyed with the Charity of their N<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>bours, which will not ſerve long to Suſtain them, without the Council, in Commiſeration of their neceſſitous Con<g ref="char:EOLhyphen"/>dition, ſhall graciouſly be pleaſed to provide for them, a more univerſal and ſeaſonable Supply. And <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>licating, That the Council would recommend them, and their deſolate and indigent Families, to the Charity of the whole Kingdom, and grant Order and Warrand for that effect, in manner under-written. The Lords of His Maje<g ref="char:EOLhyphen"/>ſties Privy Council having conſidered the foreſaid Petition, and being ſufficiently informed of the verity of the fore<g ref="char:EOLhyphen"/>ſaid Repreſentation, and of the great Diſtreſs the poor Inhabitants of the ſaid Burgh, are reduced to by the ſaid Fire<g ref="char:punc">▪</g> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Recommend <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Diſtreſſed and Afflicted Condition, to the Charity of all good People within the whole <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>dom, And recommends to the Arch-biſhops and Biſhops, to cauſe Intimation be made hereof, in the ſeveral <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Churches of their reſpective Dioceſſes upon a Sabbath Day, or to take <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch courſe otherwiſe, as may make <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Recommendation moſt effectual for the Petitioners Help and Relief; and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ppoi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts Mr. <hi>Robert Be<gap reason="illegible" extent="4+ letters">
+                     <desc>••••…</desc>
+                  </gap>
+               </hi> Advocat, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Collector of the ſaid Contribution, who hath found ſufficient Caution, <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ted in the Books of Privy Council, to do exact Diligence, for inbringing thereof, and to ſee what ſhall be uplifted, beſtowed in the moſt equal ma<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er, for the Relief of the Inhabitants.</p>
+            <closer>
+               <signed>Extracted by me WILL. PATERSON, <hi>Cls. Sti. Concilij.</hi>
+               </signed>
+               <lb/>
+GOD ſave the KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by the Heir of <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> A<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o Dom. 168<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
